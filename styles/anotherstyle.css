@@ -374,9 +374,7 @@ hr{
     border: 1px solid black;
     
   }
-  .blogs{
-    grid-template-columns: repeat(2,1fr);
-  }
+
  
 .btn-responsive{
     display: block;
